@@ -1,0 +1,1 @@
+scoreboard players set @e Eme.vsteam.timer 0
